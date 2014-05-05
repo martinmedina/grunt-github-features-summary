@@ -1,0 +1,8 @@
+{
+	"github" :
+	{
+		"oAuthToken" : "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+		"repoURL" : "owner/repo" 
+	},
+	"lastCommitSha" : "your last commit sha goes here"
+}
