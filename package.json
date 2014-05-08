@@ -1,7 +1,7 @@
 {
   "name": "grunt-github-features-summary",
   "description": "Creates a file with commit messages for the last release.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/martinmedina/grunt-github-features-summary",
   "author": {
     "name": "Martin Medina",
